@@ -1,8 +1,11 @@
 package com.yolo;
 
-public class Main {
-    public static void main(String[] args) {
+import static com.yolo.Enums.Piece.*;
 
-        System.out.println("Hello world!");
+public class Main {
+    static Board main_board;
+    public static void main(String[] args) {
+        main_board = new Board();
+        System.out.println("This is the board : \n"+main_board.toString());
     }
 }
