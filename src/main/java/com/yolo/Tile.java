@@ -2,9 +2,9 @@ package com.yolo;
 import com.yolo.Enums.Piece;
 
 public class Tile {
-    char row;
-    char column;
-    Piece piece;
+    public char row;
+    public char column;
+    public Piece piece;
 
     Tile(char row,char column,Piece piece){
         this.row = row;

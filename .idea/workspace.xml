@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70498a82-f568-41cd-9f5c-16a59939eeec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Tile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yolo/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yolo/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Enums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yolo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yolo/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yolo/Tile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
